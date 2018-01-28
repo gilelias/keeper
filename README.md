@@ -46,9 +46,9 @@ node server/index.js <localport> <remotehost> <remoteport>
 
 ## create a challenge
 Challenges are regullar expressions, for example you can simply block all GET requests by 
-| Field | test |
-| --- | --- |
-| request.method | GET |
+| Field          | test |
+| -------------- | ---- |
+| request.method | GET  |
 
 ### Development 
 to run the client with hot module replacement - for development only:
